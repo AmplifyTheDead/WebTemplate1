@@ -1,2 +1,5 @@
-# WebTemplate1
-A free CSS webtemplate.
+# Equate
+
+A complex, proffesional web template
+
+## Read License!
